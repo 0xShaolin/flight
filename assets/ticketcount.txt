@@ -1,0 +1,2 @@
+First Class: 25
+Economy: 50
