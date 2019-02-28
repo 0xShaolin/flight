@@ -2,10 +2,12 @@
 
 buyTix()
 {
+python2 ~/flight/assets/register.py
 }
 
 checkTix()
 {
+python2 ~/flight/assets/login.py
 }
 
 #home interface
